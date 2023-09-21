@@ -1,9 +1,10 @@
 # CLI-Text-Editor
 Command line text editor created in C++
 
-## Usage
-* ./myeditor <filename>
+## Run
+* ./myeditor \<filename>
 
+## Usage
 * Insert Mode: i
 * Command Mode: esc
 * Quit: Ctrl+Q
